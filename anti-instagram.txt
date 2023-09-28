@@ -1,0 +1,9 @@
+# uBlacklist Anti-Instagram
+# Custom list to block Instagram domains
+
+*://*.instagram.com/*
+*://*.cdninstagram.com/*
+*://*.api.instagram.com/*
+*://*.i.instagram.com/*
+*://*.scontent.cdninstagram.com/*
+*://*.static.instagram.com/*
